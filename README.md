@@ -9,6 +9,5 @@
 To make updates:<br>
 <ol><li>Go to the <a href="https://clientcenter.serialssolutions.com/CC/Login/Default.aspx">360 Link Administration Console.</a></li>
   <li>Go to the Link 2.0 tab</li>
-  <li>Go to Non-Sidebar Pages Branding options. These boxes control the display for the link resolver page.</li>
   <li> Record changes on the <a href="https://docs.google.com/document/d/1tUjRhy6rih3uO4LhuL2o63uUrEuG4FqG8lBeOzNHqBw/edit#">change log</a> and <a href="https://docs.google.com/presentation/d/1De2QAhIhXcG_FM_wzXXnzWJLZKiVM6tGHJZJcS0wtRU/edit?usp=sharing">Google Slides</a></li>
   </ol>
